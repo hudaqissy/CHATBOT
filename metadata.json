@@ -1,0 +1,6 @@
+{
+  "name": "Food Buddy – Let's Learn About Food!",
+  "description": "An AI educational chatbot for Malaysian Year 4 ESL pupils to learn food vocabulary, healthy eating habits, and simple English communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
